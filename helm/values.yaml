@@ -1,0 +1,5 @@
+deployment:
+  name: app
+  app: app
+  port: 8080
+  replicas: 1
